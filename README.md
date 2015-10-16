@@ -1,2 +1,2 @@
-#indigobyte-git
-Install git 2.6 from source.
+# latest-git
+Chef cookbook to install latest Git from source. Wraps [git cookbook](https://supermarket.chef.io/cookbooks/git).
