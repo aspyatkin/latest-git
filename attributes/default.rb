@@ -1,4 +1,4 @@
-default['git']['version'] = '2.6.4'
+default['git']['version'] = '2.7.0'
 default['git']['url'] = "https://www.kernel.org/pub/software/scm/git/git-#{default['git']['version']}.tar.gz"
-default['git']['checksum'] = '1a0290fcef03c7baae3e9661509421965187dc8f8f6e31672709b66c9c7686ca'
+default['git']['checksum'] = 'db9df4435c70a9b25d20a9ee20d65101692dc907a5a4b30e8343c9ae1b913ead'
 default['git']['use_pcre'] = true
