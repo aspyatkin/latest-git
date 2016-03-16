@@ -2,7 +2,7 @@ name 'latest-git'
 maintainer 'Alexander Pyatkin'
 maintainer_email 'aspyatkin@gmail.com'
 license 'MIT'
-version '1.1.4'
+version '1.1.5'
 description 'Installs and configures git'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 
