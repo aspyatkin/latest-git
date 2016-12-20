@@ -1,7 +1,7 @@
 id = 'latest-git'
 
-default[id]['source']['version'] = '2.9.2'
+default[id]['source']['version'] = '2.11.0'
 default[id]['source']['url_template'] = \
   'https://www.kernel.org/pub/software/scm/git/git-%{version}.tar.gz'
 default[id]['source']['checksum'] = \
-  '3cb09a3917c2d8150fc1708f3019cf99a8f0feee6cd61bba3797e3b2a85be9dc'
+  'd3be9961c799562565f158ce5b836e2b90f38502d3992a115dfb653d7825fd7e'
