@@ -3,4 +3,7 @@ apt_repository 'git-core' do
   distribution node['lsb']['codename']
 end
 
-include_recipe 'git::package'
+git_client 'default' do
+  package_action :upgrade
+  action :install
+end

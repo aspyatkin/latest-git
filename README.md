@@ -2,7 +2,6 @@
 Chef cookbook to install Git from source. Wraps Chef Supermarket's [git](https://supermarket.chef.io/cookbooks/git) cookbook.
 
 ## Requirements
- - [build-essential](https://supermarket.chef.io/cookbooks/build-essential) cookbook
  - [git](https://supermarket.chef.io/cookbooks/git) cookbook
 
 ## Attributes
